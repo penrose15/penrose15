@@ -20,7 +20,7 @@
 
   
 <br>
-![SeongJuHong's GitHub stats](https://github-readme-stats.vercel.app/api?username=penrose15&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penrose15)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
 <p align="center">
