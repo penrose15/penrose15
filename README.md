@@ -17,7 +17,9 @@
 </p>
 
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=penrose15&show_icons=true&theme=tokyonight) 
+
+![penrose15's github stats](https://github-readme-stats.vercel.app/api?username=penrose15&show_icons=true&theme=tokyonight) 
+
 <br>
 
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
