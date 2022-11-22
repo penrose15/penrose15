@@ -21,7 +21,7 @@
   
 <br>
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=penrose15&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=penrose15&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
 <p align="center">
   <a href="https://velog.io/@penrose_15"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@penrose_15"/></a>&nbsp
