@@ -24,7 +24,7 @@
 
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
 <p align="center">
-  <a href="[https://velog.io/@penrose15](https://velog.io/@penrose_15)"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=[https://velog.io/@penrose15](https://velog.io/@penrose_15)"/></a>&nbsp
+  <a href="https://velog.io/@penrose_15"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@penrose_15"/></a>&nbsp
   <a href="mailto:hs99215@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hsj99215@gmail.com"/></a>
 </p>
 <br>
