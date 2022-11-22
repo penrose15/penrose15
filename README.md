@@ -17,10 +17,8 @@
 </p>
 
 <br>
-
-  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=penrose_15&show_icons=true&theme=tokyonight) 
 <br>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=penrose15&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
 <p align="center">
