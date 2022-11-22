@@ -1,5 +1,9 @@
+<div align="center" style="text-align:center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=150&section=header&text=SeongJuHong&fontSize=70)
 
+</div>  
+  
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -17,9 +21,12 @@
 </p>
 
 <br>
-
+<div align="center" style="text-align:center">
+  
 ![penrose15's github stats](https://github-readme-stats.vercel.app/api?username=penrose15&show_icons=true&theme=tokyonight) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penrose15&layout=demo&theme=dark)
+</div>
 <br>
 
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
