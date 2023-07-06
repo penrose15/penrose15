@@ -17,11 +17,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=red"></a>&nbsp 
 
 <br>
-<div align="center" style="text-align:center">
-  
-![penrose15's github stats](https://github-readme-stats.vercel.app/api?username=penrose15&show_icons=true&theme=tokyonight) 
 
-</div>
 <br>
 
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
