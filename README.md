@@ -3,12 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=150&section=header&text=SeongJuHong&fontSize=70)
 
 </div>  
-<span>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penrose15&layout=compact)
-</span>
-<span>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penrose15)](https://github.com/anuraghazra/github-readme-stats)
-</span>
+
 <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
