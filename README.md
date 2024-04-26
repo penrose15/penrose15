@@ -5,7 +5,7 @@
 </div>  
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/penrose15?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/penrose15?pet-id=1301" width="1000" height="120"/>
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penrose15&layout=compact&theme=dark)
