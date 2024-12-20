@@ -1,6 +1,6 @@
 <div align="center" style="text-align:center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=150&section=header&text=SeongJu Hong&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=150&section=header&text=SeongJu_Hong&fontSize=70)
 
 </div>  
 
